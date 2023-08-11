@@ -24,8 +24,11 @@ def train_model(model, criterion, optimizer, scheduler, name, num_epochs=10):
     pass
 
 # main function
-def main():
+if __name__ == '__main__':
     pass
+
+
+
 
 
 
